@@ -1,0 +1,80 @@
+[
+  {
+    "winner": "LEFT",
+    "leftScore": 7,
+    "rightScore": 2,
+    "time": 1768535946150
+  },
+  {
+    "winner": "RIGHT",
+    "leftScore": 5,
+    "rightScore": 7,
+    "time": 1768535961290
+  },
+  {
+    "winner": "LEFT",
+    "leftScore": 7,
+    "rightScore": 2,
+    "time": 1768535974908
+  },
+  {
+    "winner": "LEFT",
+    "leftScore": 7,
+    "rightScore": 1,
+    "time": 1768537410968
+  },
+  {
+    "winner": "RIGHT",
+    "leftScore": 6,
+    "rightScore": 7,
+    "time": 1768537623316
+  },
+  {
+    "winner": "LEFT",
+    "leftScore": 7,
+    "rightScore": 2,
+    "time": 1768537652075
+  },
+  {
+    "winner": "LEFT",
+    "leftScore": 7,
+    "rightScore": 4,
+    "time": 1768537744528
+  },
+  {
+    "winner": "LEFT",
+    "leftScore": 7,
+    "rightScore": 2,
+    "time": 1768537777973
+  },
+  {
+    "winner": "LEFT",
+    "leftScore": 7,
+    "rightScore": 1,
+    "time": 1768575299841
+  },
+  {
+    "winner": "LEFT",
+    "leftScore": 7,
+    "rightScore": 2,
+    "time": 1768597706207
+  },
+  {
+    "winner": "LEFT",
+    "leftScore": 7,
+    "rightScore": 5,
+    "time": 1768597757025
+  },
+  {
+    "winner": "RIGHT",
+    "leftScore": 2,
+    "rightScore": 7,
+    "time": 1768609165563
+  },
+  {
+    "winner": "LEFT",
+    "leftScore": 7,
+    "rightScore": 3,
+    "time": 1768654685795
+  }
+]
